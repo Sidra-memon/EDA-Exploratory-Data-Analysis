@@ -1,2 +1,2 @@
 # EDA-Exploratory-Data-Analysis
-EDA Portfolio Project - Treadmill Buyer Profile
+This project contains an in-depth analysis of AeroFit's customer data to identify patterns and preferences for each treadmill model (KP281, KP481, KP781). Using exploratory data analysis (EDA), visualizations, and statistical techniques, the project uncovers insights about customer demographics, fitness levels, and purchasing behavior. These findings aim to optimize product recommendations and improve customer targeting strategies
